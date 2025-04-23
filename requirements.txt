@@ -1,0 +1,4 @@
+requests==2.31.0
+pandas==2.2.2
+stix2==3.0.1
+taxii2-client==2.3.0
